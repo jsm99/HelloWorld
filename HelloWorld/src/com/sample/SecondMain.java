@@ -7,6 +7,8 @@ public class SecondMain {
 		System.out.println("heyy!");
 		
 		System.out.println("This is from third branch!");
+		
+		System.out.println("This is from branched checkout code");
 
 	}
 
